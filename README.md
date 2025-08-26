@@ -19,16 +19,23 @@ The project also provides **data-driven recommendations** to improve video perfo
 
 ## 📝 Testing Screenshots
 
-Test 1:
+Below are sample test runs of the **YouTube Trend Predictor** in action:
 
-<img width="1704" height="604" alt="image" src="https://github.com/user-attachments/assets/53074fe0-bc40-483a-903c-33487c142cc9" />
+---
 
+### 🔹 Test 1
+<img width="100%" alt="YouTube Trend Prediction Test 1" src="https://github.com/user-attachments/assets/10f2948d-8ba5-4166-be6a-be6feff48aba" />
 
-Test 2:
+---
 
-<img width="2836" height="338" alt="image" src="https://github.com/user-attachments/assets/d1bf47da-6422-4a8d-987e-cb2dc038b21f" />
+### 🔹 Test 2
+<img width="100%" alt="YouTube Trend Prediction Test 2" src="https://github.com/user-attachments/assets/8f3c8a8b-948d-443c-aa28-664dda3a4d5b" />
 
+---
 
-Test 3:
+### 🔹 Test 3
+<img width="100%" alt="YouTube Trend Prediction Test 3" src="https://github.com/user-attachments/assets/ab5a49dd-b2dc-41ed-baef-1c6bf1a0f427" />
 
-<img width="1058" height="206" alt="image" src="https://github.com/user-attachments/assets/17067cf6-3d89-4646-885f-de036784ee0d" />
+---
+
+📌 These screenshots demonstrate how the model predicts the **trending probability** of a video and provides **actionable recommendations** to optimize performance.
