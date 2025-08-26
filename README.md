@@ -6,6 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 An AI-powered system to **predict the trending potential of YouTube videos** based on their **title, description, and tags**.  
+
 The project also provides **data-driven recommendations** to improve video performance and visibility.
 
 
@@ -22,9 +23,11 @@ Test 1:
 
 <img width="1704" height="604" alt="image" src="https://github.com/user-attachments/assets/53074fe0-bc40-483a-903c-33487c142cc9" />
 
+
 Test 2:
 
 <img width="2836" height="338" alt="image" src="https://github.com/user-attachments/assets/d1bf47da-6422-4a8d-987e-cb2dc038b21f" />
+
 
 Test 3:
 
