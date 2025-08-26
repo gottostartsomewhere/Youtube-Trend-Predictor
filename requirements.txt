@@ -1,0 +1,24 @@
+﻿# Core Python Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+imblearn
+
+# NLP
+nltk
+gensim
+transformers
+torch
+
+# Utilities
+tqdm
+joblib
+wordcloud
+
+# Optional: For running notebooks
+jupyter
