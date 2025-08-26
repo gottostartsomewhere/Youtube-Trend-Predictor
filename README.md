@@ -33,6 +33,5 @@ Below are sample test runs of the **YouTube Trend Predictor** in action:
 ### 🔹 Test 3
 <img width="100%" alt="YouTube Trend Prediction Test 3" src="https://github.com/user-attachments/assets/ab5a49dd-b2dc-41ed-baef-1c6bf1a0f427" />
 
----
 
 📌 These screenshots demonstrate how the model predicts the **trending probability** of a video and provides **actionable recommendations** to optimize performance.
