@@ -21,17 +21,14 @@ The project also provides **data-driven recommendations** to improve video perfo
 
 Below are sample test runs of the **YouTube Trend Predictor** in action:
 
----
 
 ### 🔹 Test 1
 <img width="100%" alt="YouTube Trend Prediction Test 1" src="https://github.com/user-attachments/assets/10f2948d-8ba5-4166-be6a-be6feff48aba" />
 
----
 
 ### 🔹 Test 2
 <img width="100%" alt="YouTube Trend Prediction Test 2" src="https://github.com/user-attachments/assets/8f3c8a8b-948d-443c-aa28-664dda3a4d5b" />
 
----
 
 ### 🔹 Test 3
 <img width="100%" alt="YouTube Trend Prediction Test 3" src="https://github.com/user-attachments/assets/ab5a49dd-b2dc-41ed-baef-1c6bf1a0f427" />
